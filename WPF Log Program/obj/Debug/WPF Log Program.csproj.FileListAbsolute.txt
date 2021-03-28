@@ -1,0 +1,18 @@
+C:\Users\nonam\documents\visual studio 2015\Projects\WPF Log Program\WPF Log Program\bin\Debug\WPF Log Program.exe.config
+C:\Users\nonam\documents\visual studio 2015\Projects\WPF Log Program\WPF Log Program\bin\Debug\WPF Log Program.exe
+C:\Users\nonam\documents\visual studio 2015\Projects\WPF Log Program\WPF Log Program\bin\Debug\WPF Log Program.pdb
+C:\Users\nonam\documents\visual studio 2015\Projects\WPF Log Program\WPF Log Program\obj\Debug\LogDisplay.g.cs
+C:\Users\nonam\documents\visual studio 2015\Projects\WPF Log Program\WPF Log Program\obj\Debug\LogListDisplay.g.cs
+C:\Users\nonam\documents\visual studio 2015\Projects\WPF Log Program\WPF Log Program\obj\Debug\CustomMessageBox.g.cs
+C:\Users\nonam\documents\visual studio 2015\Projects\WPF Log Program\WPF Log Program\obj\Debug\App.g.cs
+C:\Users\nonam\documents\visual studio 2015\Projects\WPF Log Program\WPF Log Program\obj\Debug\WPF Log Program_MarkupCompile.cache
+C:\Users\nonam\documents\visual studio 2015\Projects\WPF Log Program\WPF Log Program\obj\Debug\WPF Log Program_MarkupCompile.lref
+C:\Users\nonam\documents\visual studio 2015\Projects\WPF Log Program\WPF Log Program\obj\Debug\LogDisplay.baml
+C:\Users\nonam\documents\visual studio 2015\Projects\WPF Log Program\WPF Log Program\obj\Debug\LogListDisplay.baml
+C:\Users\nonam\documents\visual studio 2015\Projects\WPF Log Program\WPF Log Program\obj\Debug\CustomMessageBox.baml
+C:\Users\nonam\documents\visual studio 2015\Projects\WPF Log Program\WPF Log Program\obj\Debug\WPF Log Program.g.resources
+C:\Users\nonam\documents\visual studio 2015\Projects\WPF Log Program\WPF Log Program\obj\Debug\WPF_Log_Program.Properties.Resources.resources
+C:\Users\nonam\documents\visual studio 2015\Projects\WPF Log Program\WPF Log Program\obj\Debug\WPF Log Program.csproj.GenerateResource.Cache
+C:\Users\nonam\documents\visual studio 2015\Projects\WPF Log Program\WPF Log Program\obj\Debug\WPF Log Program.exe
+C:\Users\nonam\documents\visual studio 2015\Projects\WPF Log Program\WPF Log Program\obj\Debug\WPF Log Program.pdb
+C:\Users\nonam\documents\visual studio 2015\Projects\WPF Log Program\WPF Log Program\obj\Debug\WPF Log Program.csprojResolveAssemblyReference.cache
